@@ -15,7 +15,7 @@ requirements = [
     'ecdsa>=0.14.1',
     'base58>=1.0.3',
     'crypto>=1.4.1',
-    'pysha3>=1.0.2',
+    'safe-pysha3>=1.0.3',
 ]
 
 setup_requirements = ['pytest-runner', ]
